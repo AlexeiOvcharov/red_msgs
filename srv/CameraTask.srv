@@ -1,4 +1,6 @@
 int8 mode
 string shape
 ---
+int8 state
 Object[] list
+

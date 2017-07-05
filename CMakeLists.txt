@@ -13,14 +13,13 @@ add_message_files(
   FILES
   Object.msg
   ListObjects.msg
-  Orientation.msg
 )
 
 ## Generate services in the 'srv' folder
 add_service_files(
   FILES
-  CameraListObjects.srv
-  SwitchCamera.srv
+  CameraStop.srv
+  CameraTask.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
