@@ -1,0 +1,7 @@
+int8 PICK = 1
+int8 PLACE = 2
+
+int8 task
+string[] objects
+---
+bool success
