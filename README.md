@@ -1,2 +1,2 @@
 # red_msgs
-Package store message files
+Package stores message files
