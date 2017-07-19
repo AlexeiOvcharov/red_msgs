@@ -1,4 +1,5 @@
 int8 mode
+float32 distance
 string shape
 ---
 int8 state
