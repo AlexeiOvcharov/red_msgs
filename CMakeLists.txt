@@ -23,6 +23,7 @@ add_service_files(
   CameraStop.srv
   CameraTask.srv
   ManipulationObjects.srv
+  GetRange.srv
 )
 
 ## Generate actions in the 'action' folder
