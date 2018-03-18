@@ -15,6 +15,7 @@ add_message_files(
   FILES
   Object.msg
   ListObjects.msg
+  Pose.msg
 )
 
 ## Generate services in the 'srv' folder
