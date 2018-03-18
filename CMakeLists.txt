@@ -21,10 +21,7 @@ add_message_files(
 ## Generate services in the 'srv' folder
 add_service_files(
   FILES
-  CameraStop.srv
   CameraTask.srv
-  ManipulationObjects.srv
-  GetRange.srv
 )
 
 ## Generate actions in the 'action' folder

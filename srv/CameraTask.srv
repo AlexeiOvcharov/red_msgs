@@ -1,7 +1,10 @@
 int8 mode
-float32 distance
-string shape
 ---
-int8 state
-Object[] list
+int8 NOTHING = 1
+int8 SOMETHING = 2
+int8 TIMEOUT = 3
+int8 error
+Pose[] poses
+int64[] ids
+
 
