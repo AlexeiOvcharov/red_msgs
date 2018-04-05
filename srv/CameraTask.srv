@@ -6,5 +6,3 @@ int8 TIMEOUT = 3
 int8 error
 Pose[] poses
 int64[] ids
-
-
