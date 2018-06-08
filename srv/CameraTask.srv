@@ -1,4 +1,5 @@
 int8 mode
+int64 request_id
 ---
 int8 NOTHING = 1
 int8 SOMETHING = 2
