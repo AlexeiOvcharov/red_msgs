@@ -10,8 +10,7 @@ ManipulationObject[] objects
 ---
 #result definition
 
----
-#feedback
-
 # Table of object id and destinations
 ManipulationObject[] result
+---
+#feedback
