@@ -1,0 +1,17 @@
+#goal definition
+uint8 PICK=1
+uint8 PLACE=2
+
+# Pick or place tasks
+uint8 task
+
+# Table of object id and destinations
+ManipulationObject[] objects
+---
+#result definition
+
+---
+#feedback
+
+# Table of object id and destinations
+ManipulationObject[] result
