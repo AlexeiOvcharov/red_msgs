@@ -1,3 +1,6 @@
 Pose[] poses
+
+float64 vel
+float64 accel
 ---
 int8 error
